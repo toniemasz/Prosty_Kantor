@@ -1,0 +1,1 @@
+„Prosty Kantor” to aplikacja desktopowa napisana w języku Java, umożliwiająca przeliczanie walut na podstawie dostępnych kursów. Projekt składa się z graficznego interfejsu użytkownika (GUI) oraz logiki serwera i klienta, które komunikują się w celu wykonania operacji przeliczeniowych.
